@@ -1,0 +1,48 @@
+{
+    "collection mixte":[
+        {
+        "Ambre Blanche":{
+            "fond":"https://i.imgur.com/PzW1829.png",
+            "imgcol":"https://i.imgur.com/qxCE8qh.png",
+            "img1":"https://i.imgur.com/1SahtJP.png",
+            "img2":"https://i.imgur.com/9XkbIpi.png",
+            "img3":"https://i.imgur.com/yrlzIU0.png",
+            "text":"Tuberose, jasmine, and orange blossom on a bed of golden amber."
+        },
+        "Amarante":{
+            "fond":"https://i.imgur.com/11cViGe.png",
+            "imgcol":"https://i.imgur.com/wWm5Bvx.png",
+            "img1":"https://i.imgur.com/e0RksKT.png",
+            "img2":"https://i.imgur.com/vLyyXhl.png",
+            "img3":"https://i.imgur.com/nAbrKsu.png",
+            "text":"Geranium, jasmine, and violet, a delicate dance of blooming flowers."
+        },
+        "Songe d'Osmanthus":{
+            "fond":"https://i.imgur.com/Zucln3y.png",
+            "imgcol":"https://i.imgur.com/KnynrsY.png",
+            "img1":"https://i.imgur.com/6I7pNUL.png",
+            "img2":"https://i.imgur.com/cPmvJT3.png",
+            "img3":"https://i.imgur.com/KzqiPzu.png",
+            "text":"Camellia and delicate rose on a bed of white musk."
+        }
+        }
+    ],
+    "collection-femme":[
+        {
+            "agrume":{
+                "soleil d'ancre":{
+                    "fond":"",
+                    "imgcol":"https://i.imgur.com/tC7ZYQA.png",
+                    "img1":"https://i.imgur.com/8FvcbJ1.png",
+                    "img2":"https://i.imgur.com/0mByI4n.png",
+                    "img3":"https://i.imgur.com/YqO3RDk.png"},
+                "tonka lush":{
+                    "fond":"",
+                    "imgcol":"https://i.imgur.com/gne37Vu.png",
+                    "img1":"https://i.imgur.com/UcDNtGi.png",
+                    "img2":"https://i.imgur.com/wPRvxyc.png",
+                    "img3":"https://i.imgur.com/LyKuqkW.png"}
+                }
+            }
+    ]  
+}

@@ -1,0 +1,303 @@
+[
+    {
+        "name": "White Rose",
+        "location": [45.0, 15.0], 
+        "image": "https://www.peterbealesroses.com/images/alba-maxima-shrub-rose-p75-305_image.jpg",
+        "origin": "Balkans, Europe",
+        "description": "The white rose of the Balkans, with a delicate and slightly spicy fragrance, adds a touch of purity and freshness to our compositions."
+    },
+    {
+        "name": "May Rose",
+        "location": [43.7, 7.2], 
+        "image": "https://hermitageoils.com/wp-content/uploads/2015/10/rosa-centifolia1.jpg",
+        "origin": "Grasse, France",
+        "description": "Hand-harvested in May, this centifolia rose exudes a rich and voluptuous scent, the heart of many mythical fragrances."
+    },
+    {
+        "name": "Damask Rose",
+        "location": [33.5, 36.3],
+        "image": "https://www.secrets-aloyse.fr/471/eau-florale-de-rose-de-damas.jpg",
+        "origin": "Damascus, Syria",
+        "description": "Cultivated since antiquity, the Damask rose offers an enchanting scent, both fruity and spicy, highly prized in perfumery."
+    },
+    {
+        "name": "Musk",
+        "location": [35.0, 103.0],
+        "image": "https://www.musc-blanc.com/wp-content/uploads/2019/09/les-origines-du-musc.jpg",
+        "origin": "Himalaya, Tibet",
+        "description": "A plant-based alternative to animal musk, this essence offers a warm, sensual, and enveloping note to oriental fragrances."
+    },
+    {
+        "name": "Bergamot",
+        "location": [38.1, 15.6], 
+        "image": "https://images.radio-canada.ca/q_auto,w_952/v1/alimentation/ingredient/4x3/bergamote-ingredients-mordu.jpg",
+        "origin": "Calabria, Italy",
+        "description": "This small sun citrus, grown exclusively in Calabria, brings a sparkling and bright freshness to fragrances."
+    },
+    {
+        "name": "Ginger",
+        "location": [10.0, 76.0], 
+        "image": "https://www.deco.fr/sites/default/files/styles/1200x675/public/2020-02/shutterstock_127542449.jpg",
+        "origin": "Kerala, India",
+        "description": "A rhizome with spicy and citrus notes, ginger adds a vibrant and energizing touch to compositions."
+    },
+    {
+        "name": "Ambergris",
+        "location": [-20.3, 57.6], 
+        "image": "https://baleinesendirect.org/wp-content/uploads/2019/07/ambre-gris-atlantique-2800g.jpg",
+        "origin": "Indian Ocean",
+        "description": "A rare concretion floating in the oceans, ambergris develops a marine, animal, and deeply enchanting scent over time."
+    },
+    {
+        "name": "Amber",
+        "location": [54.0, 24.0],
+        "image": "https://www.vuillermoz.fr/uploads/cms/encyclopedie-des-pierres/ambre.jpeg",
+        "origin": "Baltic Sea",
+        "description": "Fossilized resin with warm and vanilla notes, amber adds a comforting sweetness to oriental fragrances."
+    },
+    {
+        "name": "Agarwood (Oud)",
+        "location": [23.7, 90.4], 
+        "image": "https://www.chakras-shop.com/wp-content/uploads/2019/08/cencens-800x533.jpg",
+        "origin": "Bangladesh",
+        "description": "A precious resin from a sick tree, oud emits a woody, complex, and mysterious fragrance, often referred to as 'liquid gold.'"
+    },
+    {
+        "name": "Tuberose",
+        "location": [20.6, -100.4], 
+        "image": "https://media.gerbeaud.net/2016/06/640/tubereuse-fleurs.jpg",
+        "origin": "Mexico",
+        "description": "A nocturnal flower with a heady scent, tuberose exudes an enchanting sensuality, between creamy floral and animal notes."
+    },
+    {
+        "name": "Jasmine",
+        "location": [26.5, 80.2], 
+        "image": "https://plantes-avenue.fr/372-large_default/jasmin-blanc-officinalis.jpg",
+        "origin": "Uttar Pradesh, India",
+        "description": "The grandiflorum jasmine, harvested at dawn, reveals an enchanting scent, both sensual and delicate, the king of flowers in perfumery."
+    },
+    {
+        "name": "Orange Blossom",
+        "location": [36.8, 10.2], 
+        "image": "https://www.papillesetpupilles.fr/wp-content/uploads/2018/07/Eau-de-fleu-dorangers-Copyright-Iness_la_luz-shutterstock.jpg",
+        "origin": "Tunisia",
+        "description": "Neroli and orange blossom, two treasures of the bitter orange tree, offer different facets of the same flower: vibrant freshness or enveloping softness."
+    },
+    {
+        "name": "Vetiver",
+        "location": [19.1, 72.9], 
+        "image": "https://img.leboncoin.fr/api/v1/lbcpb1/images/97/fa/d6/97fad6f7bdca53d3cca923d07e6bcbcfc9a2b470.jpg?rule=ad-large",
+        "origin": "Haiti",
+        "description": "Deep roots with a woody, earthy, and slightly smoky scent, Haitian vetiver is the foundational note of elegant masculine perfumes."
+    },
+    {
+        "name": "Sandalwood",
+        "location": [-12.0, 130.0], 
+        "image": "https://static.subbly.me/fs/subbly/userFiles/maprecieusebougiebox-63c5081f9a6f6/images/a-163-bois-des-antall-17188155879879.jpg?v=1718815591",
+        "origin": "Australia",
+        "description": "Precious wood with a sweet and creamy scent, Australian sandalwood adds a warm and sensual foundational note."
+    },
+    {
+        "name": "Leather",
+        "location": [46.0, 2.0], 
+        "image": "https://crea-cuir.com/modules//smartblog/images/156-single-default.jpg",
+        "origin": "France",
+        "description": "Olfactory note recreating the scent of tanned leather, adding a virile and sophisticated dimension to fragrances."
+    },
+    {
+        "name": "Camellia",
+        "location": [30.0, 120.0], 
+        "image": "https://www.decodujardin.fr/4321-large_default/camelia-du-japon.jpg",
+        "origin": "China",
+        "description": "Delicate flower with a subtle and slightly herbaceous scent, camellia adds a touch of floral freshness."
+    },
+    {
+        "name": "Cherry Blossom",
+        "location": [36.0, 138.0],
+        "image": "https://www.quosentis.com/Files/124793/Img/24/BP-FLEUR-CERISIER-FR-zoom.png",
+        "origin": "Japan",
+        "description": "Cherry blossom (sakura) with a delicate and slightly bitter scent, evoking spring and rebirth."
+    },
+    {
+        "name": "Magnolia",
+        "location": [32.0, -90.0], 
+        "image": "https://trees.hillier.co.uk/wp-content/uploads/2023/10/magnolia-grandiflora-ferruginea-evergreen-magnolia-tree-white-flower-blossom-scaled.jpg",
+        "origin": "Louisiana, USA",
+        "description": "Majestic flower with a scent that is both lemony and vanilla, bringing a sophisticated floral note."
+    },
+    {
+        "name": "Cedarwood",
+        "location": [34.0, 36.0],
+        "image": "https://fichiers.scentree.co/static/scentree_detailed_pages/images/Bois%20de%20C%C3%A8dre%20Chine%20HE.jpg",
+        "origin": "Lebanon",
+        "description": "Noble wood with a dry and woody scent, cedar adds a reassuring and masculine foundational note."
+    },
+    {
+        "name": "Agarwood",
+        "location": [4.0, 114.0],
+        "image": "https://naturallday.fr/cdn/shop/products/oud_thai_600x.jpg?v=1556102671",
+        "origin": "Borneo",
+        "description": "Rare resin with a complex, woody, and slightly smoky scent, highly prized in oriental perfumery."
+    },
+    {
+        "name": "Pepper",
+        "location": [10.0, 76.0], 
+        "image": "https://img-3.journaldesfemmes.fr/NG3vMGK0mq4hfLFexRwSgQeJrkU=/1500x/smart/4d1689b8537441aaa574352c45998cf9/ccmcms-jdf/36993683.jpg",
+        "origin": "Kerala, India",
+        "description": "Black pepper berries adding a spicy, vibrant, and slightly fruity note to compositions."
+    },
+    {
+        "name": "Mandarin",
+        "location": [37.0, -8.0],
+        "image": "https://img.passeportsante.net/1200x675/2018-05-22/i85740-.jpeg",
+        "origin": "Algarve, Portugal",
+        "description": "Sweet and juicy citrus, mandarin brings a cheerful and sunny freshness to fragrances."
+    },
+    {
+        "name": "Blackcurrant",
+        "location": [47.0, 4.0], 
+        "image": "https://i-re.unimedias.fr/2024/04/29/r-branche-cassis-fruits-rouges-baies-116230886as-662f43dd8d065.jpg?auto=format%2Ccompress&crop=faces&cs=tinysrgb&fit=crop&h=501&w=890",
+        "origin": "Burgundy, France",
+        "description": "Blackcurrant berries providing a fruity, slightly green, and tangy note to compositions."
+    },
+    {
+        "name": "Citrus",
+        "location": [38.0, -3.0], 
+        "image": "https://cloudfront-eu-central-1.images.arcpublishing.com/lpguideshopping/6LRLFT4MNZG45CVP5HKF7LYWPM.jpg",
+        "origin": "Andalusia, Spain",
+        "description": "A blend of Mediterranean citrus fruits bringing a bright and luminous freshness to the top of the fragrance."
+    },
+    {
+        "name": "Lemon",
+        "location": [40.0, 15.0], 
+        "image": "https://iod.keplrstatic.com/api/ar_1,c_crop,g_north/c_fill,dpr_auto,f_auto,q_70,w_750/mon_marche/5701CITRON_FEUILLES_NON_TRAITES.jpg",
+        "origin": "Amalfi, Italy",
+        "description": "Yellow lemon with a bright zest, adding a fresh, tangy, and tonic note to compositions."
+    },
+    {
+        "name": "Coconut",
+        "location": [-8.0, 115.0], 
+        "image": "https://www.compagnie-des-sens.fr/img/cmscover/3051/coco-458.jpg",
+        "origin": "Bali, Indonesia",
+        "description": "Coconut flesh providing a creamy, gourmet, and exotic note to sunny fragrances."
+    },
+    {
+        "name": "Lychee",
+        "location": [23.0, 113.0], 
+        "image": "https://www.cultures-sucre.com/Medias/article/litchi@dae337d7-caa8-44b0-8495-1fda0943c1cb.jpg",
+        "origin": "Guangdong, China",
+        "description": "Delicate fruit with a floral and fruity scent, lychee adds a touch of Asian freshness."
+    },
+    {
+        "name": "Vanilla",
+        "location": [-13.6, 48.4],
+        "image": "https://www.hagengrote.fr/genussmagazin/wp-content/uploads/2017/02/Vanille-1200x675.jpg",
+        "origin": "Madagascar",
+        "description": "Black pods filled with sunshine, Madagascar vanilla offers a comforting and gourmet sweetness to oriental compositions."
+    },
+    {
+        "name": "Tonka Bean",
+        "location": [8.0, -62.0], 
+        "image": "https://www.epices.com/930-large_default/feve-tonka.jpg",
+        "origin": "Venezuela",
+        "description": "Bean with a complex scent, between almond, vanilla, and tobacco, adding a warm and gourmet note."
+    },
+    {
+        "name": "Lime",
+        "location": [19.0, -70.0],
+        "image": "https://img-3.journaldesfemmes.fr/AvY4ZZ5qd_vpshObbY4iT-3sypo=/1500x/smart/c61a64bb3a5345189b0ac9f195c9b7f4/ccmcms-jdf/16168025.jpg",
+        "origin": "Dominican Republic",
+        "description": "Lime with an explosive and refreshing scent, bringing vibrant energy to compositions."
+    },
+    {
+        "name": "Strawberry",
+        "location": [44.0, 3.0], 
+        "image": "https://www.fresh.fr/wp-content/uploads/2021/09/fraise-1791x1080.jpg",
+        "origin": "Lot-et-Garonne, France",
+        "description": "Gariguette strawberry providing a fruity, juicy, and slightly green note to gourmet fragrances."
+    },
+    {
+        "name": "Raspberry",
+        "location": [45.0, 6.0], 
+        "image": "https://img-3.journaldesfemmes.fr/BZs54b5UBRJQ8wcQ3EYGrM91ZTs=/1500x/smart/45768007f10e4e269b3f7901e339a1f4/ccmcms-jdf/25039199.jpg",
+        "origin": "Savoie, France",
+        "description": "Wild raspberry with an intense and slightly tangy scent, adding a sophisticated fruity touch."
+    },
+    {
+        "name": "Cherry",
+        "location": [44.0, 11.0], 
+        "image": "https://img.passeportsante.net/1200x675/2021-05-03/i102000-cerise-nu.webp",
+        "origin": "Emilia-Romagna, Italy",
+        "description": "Black cherry with a deep and slightly bitter scent, providing an intense fruity note."
+    },
+    {
+        "name": "Milk",
+        "location": [48.0, -2.0], 
+        "image": "https://i0.wp.com/nouvellesgastronomiques.com/wp-content/uploads/2022/01/lait6.png?fit=1200%2C800&ssl=1",
+        "origin": "Brittany, France",
+        "description": "Milky note adding a comforting and enveloping sweetness to gourmet fragrances."
+    },
+    {
+        "name": "Bitter Orange",
+        "location": [37.0, 14.0], 
+        "image": "https://agrumes-vessieres.fr/wp-content/uploads/2021/07/bouquet-de-nice-1.jpg",
+        "origin": "Sicily, Italy",
+        "description": "Bitter orange with an intense and slightly bitter scent, widely used in perfumery for its luminous essence."
+    },
+    {
+        "name": "Osmanthus",
+        "location": [30.0, 120.0],
+        "image": "https://www.nature-and-garden.com/wp-content/uploads/sites/4/2018/05/osmanthus.jpg",
+        "origin": "China",
+        "description": "Osmanthus flower with a unique scent, combining apricot, leather, and white flower, highly valued in niche perfumery."
+    },
+    {
+        "name": "Ambrette",
+        "location": [20.0, 78.0],
+        "image": "https://www.albertvieille.com/wp-content/uploads/2023/06/ambrette-seeds-shutterstock-1921184276-scaled.jpg",
+        "origin": "India",
+        "description": "Ambrette seeds, a plant-based alternative to animal musk, providing a warm and slightly fruity note."
+    },
+    {
+        "name": "Patchouli",
+        "location": [-7.8, 110.4], 
+        "image": "https://abanuc.com/cdn/shop/collections/PATCHOULI.jpg?v=1620928389",
+        "origin": "Indonesia",
+        "description": "Dried leaves with an earthy and woody scent, patchouli adds a mysterious and sensual touch to oriental fragrances."
+    },
+    {
+        "name": "Aldehyde",
+        "location": [48.0, 2.0], 
+        "image": "https://www.quosentis.com/Files/124793/Img/24/anis-zoom.png",
+        "origin": "Laboratory, France",
+        "description": "Organic compounds providing effervescent notes, sometimes compared to champagne or luxurious soap."
+    },
+    {
+        "name": "Geranium",
+        "location": [-33.0, 18.0], 
+        "image": "https://www.lahalleauxplantes.com/wp-content/uploads/2021/04/geranium-4410725-scaled.jpg",
+        "origin": "South Africa",
+        "description": "Rosat geranium leaves with a scent that is floral, mentholated, and slightly fruity."
+    },
+    {
+        "name": "Violet",
+        "location": [44.0, 2.0], 
+        "image": "https://www.code-couleur.com/images/main/header2020/fleur-violette.jpg",
+        "origin": "Toulouse, France",
+        "description": "Violet flower with a sweet and powder y scent, adding a retro and delicate note to compositions."
+    },
+    {
+        "name": "Apple",
+        "location": [47.0, -1.0], 
+        "image": "https://www.hagengrote.fr/genussmagazin/wp-content/uploads/2022/08/Titel_Apfel-1200x900.jpg",
+        "origin": "Loire Valley, France",
+        "description": "Golden apple providing a fruity, fresh, and slightly green note to youthful and dynamic fragrances."
+    },
+    {
+        "name": "Lavender",
+        "location": [44.0, 6.0],
+        "image": "https://fr-be.bakker.com/cdn/shop/files/100338_2_1699363768095.jpg?v=1734962079&width=1946",
+        "origin": "Provence, France",
+        "description": "Fine lavender from Provence with a fresh, herbal, and slightly camphoraceous scent, the base of classic masculine perfumes."
+    }
+]
