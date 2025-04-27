@@ -1,48 +1,167 @@
 {
-    "collection mixte":[
+    "collection mixte":
+        [
+            {
+                "songe d'Osmanthus":{
+                    "fond":"https://i.imgur.com/AaIiAWu.png",
+                    "imgcol":"https://i.imgur.com/yXX80Hd.png",
+                    "imech":"",
+                    "qntech":4,
+                    "qnt":4,
+                    "img1":"https://i.imgur.com/6I7pNUL.png",
+                    "img2":"https://i.imgur.com/cPmvJT3.png",
+                    "img3":"https://i.imgur.com/KzqiPzu.png",
+                    "text":"Camellia and delicate rose on a bed of white musk."
+                },
+                "amarante":{
+                    "fond":"https://i.imgur.com/11cViGe.png",
+                    "imgcol":"https://i.imgur.com/wWm5Bvx.png",
+                    "imech":"",
+                    "qntech":4,
+                    "qnt":4,
+                    "img1":"https://i.imgur.com/e0RksKT.png",
+                    "img2":"https://i.imgur.com/vLyyXhl.png",
+                    "img3":"https://i.imgur.com/nAbrKsu.png",
+                    "text":"Geranium, jasmine, and violet, a delicate dance of blooming flowers."
+                },
+                "ambre blanche":{
+                    "fond":"https://i.imgur.com/PzW1829.png",
+                    "imgcol":"https://i.imgur.com/qxCE8qh.png",
+                    "imech":"",
+                    "qntech":4,
+                    "qnt":4,
+                    "img1":"https://i.imgur.com/1SahtJP.png",
+                    "img2":"https://i.imgur.com/9XkbIpi.png",
+                    "img3":"https://i.imgur.com/yrlzIU0.png",
+                    "text":"Tuberose, jasmine, and orange blossom on a bed of golden amber."
+                }
+            }
+        ],
+
+    "collection femme":[
         {
-        "Ambre Blanche":{
-            "fond":"https://i.imgur.com/PzW1829.png",
-            "imgcol":"https://i.imgur.com/qxCE8qh.png",
-            "img1":"https://i.imgur.com/1SahtJP.png",
-            "img2":"https://i.imgur.com/9XkbIpi.png",
-            "img3":"https://i.imgur.com/yrlzIU0.png",
-            "text":"Tuberose, jasmine, and orange blossom on a bed of golden amber."
-        },
-        "Amarante":{
-            "fond":"https://i.imgur.com/11cViGe.png",
-            "imgcol":"https://i.imgur.com/wWm5Bvx.png",
-            "img1":"https://i.imgur.com/e0RksKT.png",
-            "img2":"https://i.imgur.com/vLyyXhl.png",
-            "img3":"https://i.imgur.com/nAbrKsu.png",
-            "text":"Geranium, jasmine, and violet, a delicate dance of blooming flowers."
-        },
-        "Songe d'Osmanthus":{
-            "fond":"https://i.imgur.com/Zucln3y.png",
-            "imgcol":"https://i.imgur.com/KnynrsY.png",
-            "img1":"https://i.imgur.com/6I7pNUL.png",
-            "img2":"https://i.imgur.com/cPmvJT3.png",
-            "img3":"https://i.imgur.com/KzqiPzu.png",
-            "text":"Camellia and delicate rose on a bed of white musk."
-        }
-        }
-    ],
-    "collection-femme":[
-        {
+            "fleurs":{
+                "etreinte de rose":{
+                    "fond":"https://i.imgur.com/zTu6ExU.png",
+                    "imgcol":"https://i.imgur.com/qxWwrZK.png",
+                    "imech":"",
+                    "qntech":4,
+                    "qnt":4,
+                    "img1":"https://imgur.com/gallery/img1-etreinte-0kjTADL",
+                    "img2":"https://i.imgur.com/xGuyCvc.png",
+                    "img3":"https://imgur.com/gallery/img3-treinte-TdyzMWM"},
+                "Narcose":{
+                    "fond":"https://i.imgur.com/AHIWUbd.png",
+                    "imgcol":"https://i.imgur.com/6Xnkwkh.png",
+                    "imech":"",
+                    "qntech":4,
+                    "qnt":4,
+                    "img1":"https://i.imgur.com/WklHV3z.png",
+                    "img2":"https://i.imgur.com/7NBXp6V.png",
+                    "img3":"https://i.imgur.com/k4PnFqm.png"},
+                "brise de hanami":{
+                    "fond":"https://i.imgur.com/DJR08CX.png",
+                    "imgcol":"https://i.imgur.com/9dI4Sg5.png",
+                    "imech":"",
+                    "qntech":4,
+                    "qnt":4,
+                    "img1":"https://i.imgur.com/1MJ3Ven.png",
+                    "img2":"https://i.imgur.com/i9xO3vy.png",
+                    "img3":"https://i.imgur.com/2YSOlC9.png"}
+                      
+                },
             "agrume":{
                 "soleil d'ancre":{
-                    "fond":"",
-                    "imgcol":"https://i.imgur.com/tC7ZYQA.png",
+                    "fond":"https://i.imgur.com/eTPChaY.png",
+                    "imgcol":"https://i.imgur.com/OmT9CKn.png",
+                    "imech":"",
+                    "qntech":4,
+                    "qnt":4,
                     "img1":"https://i.imgur.com/8FvcbJ1.png",
                     "img2":"https://i.imgur.com/0mByI4n.png",
                     "img3":"https://i.imgur.com/YqO3RDk.png"},
                 "tonka lush":{
-                    "fond":"",
-                    "imgcol":"https://i.imgur.com/gne37Vu.png",
+                    "fond":"https://i.imgur.com/v6JURv5.png",
+                    "imgcol":"https://i.imgur.com/teN2vdl.png",
+                    "imech":"",
+                    "qntech":4,
+                    "qnt":4,
                     "img1":"https://i.imgur.com/UcDNtGi.png",
                     "img2":"https://i.imgur.com/wPRvxyc.png",
-                    "img3":"https://i.imgur.com/LyKuqkW.png"}
-                }
-            }
-    ]  
+                    "img3":"https://i.imgur.com/LyKuqkW.png"},
+                "creamy crush":{
+                    "fond":"https://i.imgur.com/q2TZ2qh.png",
+                    "imgcol":"https://i.imgur.com/vn9Pw8f.png",
+                    "imech":"",
+                    "qntech":4,
+                    "qnt":4,
+                    "img1":"https://i.imgur.com/jnjJt8J.png",
+                    "img2":"https://i.imgur.com/SLwExKK.png",
+                    "img3":"https://i.imgur.com/TazdLT8.png"}
+                      }
+        }
+    ],
+    "collection homme":[
+        {
+            "bois":{
+                "écorce sauvage":{
+                    "fond":"https://i.imgur.com/ILt9Rxr.png",
+                    "imgcol":"https://i.imgur.com/Z9564SI.png",
+                    "imech":"https://i.imgur.com/LdtTGZf.png",
+                    "qntech":4,
+                    "qnt":4,
+                    "img1":"https://i.imgur.com/sXw0H1o.png",
+                    "img2":"https://i.imgur.com/UCNSveo.png",
+                    "img3":"https://i.imgur.com/KkiE5F5.png"},
+                "Bois impérial":{
+                    "fond":"https://i.imgur.com/NcKoFqE.png",
+                    "imgcol":"https://i.imgur.com/aQVhg6N.png",
+                    "imech":"",
+                    "qntech":4,
+                    "qnt":4,
+                    "img1":"https://i.imgur.com/CtyuvGY.png",
+                    "img2":"https://i.imgur.com/PNYswHJ.png",
+                    "img3":"https://i.imgur.com/mBWKQK3.png"},
+                "terre indomptable":{
+                    "fond":"https://i.imgur.com/8YOZwRg.png",
+                    "imgcol":"https://i.imgur.com/EMybnmD.png",
+                    "imech":"",
+                    "qntech":4,
+                    "qnt":4,
+                    "img1":"https://i.imgur.com/AzVJLWH.png",
+                    "img2":"https://i.imgur.com/B38OGRH.png",
+                    "img3":"https://i.imgur.com/m0pCXeW.png"}
+                      
+                },
+            "agrume":{
+                "clarté d'Aurore":{
+                    "fond":"https://i.imgur.com/J0g2mrc.png",
+                    "imgcol":"https://i.imgur.com/lQ2gQKY.png",
+                    "imech":"",
+                    "qntech":4,
+                    "qnt":4,
+                    "img1":"https://i.imgur.com/4HFvj6G.png",
+                    "img2":"https://i.imgur.com/xw16BfI.png",
+                    "img3":"https://i.imgur.com/5d3jFP3.png"},
+                "Brume céleste":{
+                    "fond":"https://i.imgur.com/EqltFOr.png",
+                    "imgcol":"https://i.imgur.com/eXyZDFl.png",
+                    "imech":"",
+                    "qntech":4,
+                    "qnt":4,
+                    "img1":"https://i.imgur.com/4kuQZA7.png",
+                    "img2":"https://i.imgur.com/g17m0nL.png",
+                    "img3":"https://i.imgur.com/oRmFR0t.png"},
+                "Zéphyr ardent":{
+                    "fond":"https://i.imgur.com/ShIqjf7.png",
+                    "imgcol":"https://i.imgur.com/SgVK74G.png",
+                    "imech":"",
+                    "qntech":4,
+                    "qnt":4,
+                    "img1":"https://i.imgur.com/w8S16au.png",
+                    "img2":"https://i.imgur.com/v0WvPSA.png",
+                    "img3":"https://i.imgur.com/DJX6xH1.png"}
+                      }
+        }
+    ] 
 }
