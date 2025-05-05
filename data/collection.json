@@ -2,39 +2,75 @@
     "collection mixte":
         [
             {
-                "Songe d'Osmanthus":{
-                    "fond":"https://i.imgur.com/AaIiAWu.png",
-                    "imgcol":"https://i.imgur.com/yXX80Hd.png",
-                    "imech":"",
-                    "qntech":4,
-                    "qnt":4,
-                    "img1":"https://i.imgur.com/6I7pNUL.png",
-                    "img2":"https://i.imgur.com/cPmvJT3.png",
-                    "img3":"https://i.imgur.com/KzqiPzu.png",
-                    "text":"Camellia and delicate rose on a bed of white musk."
+                "Songe d'Osmanthus": {
+                    "id": 0,
+                    "title": "Songe d'Osmanthus",
+                    "fond": "https://i.imgur.com/AaIiAWu.png",
+                    "imgcol": "https://i.imgur.com/yXX80Hd.png",
+                    "imech": "",
+                    "qntech": 4,
+                    "qnt": 4,
+                    "img1": "https://i.imgur.com/6I7pNUL.png",
+                    "img2": "https://i.imgur.com/cPmvJT3.png",
+                    "img3": "https://i.imgur.com/KzqiPzu.png",
+                    "text": "Camellia and delicate rose on a bed of white musk.",
+                    "detail_h2": "YOUR SCENT, YOUR STORY",
+                    "detail_p": "This fragrance evokes a unique journey through emotions and elements. A signature made for those who dare to express their true selves.",
+                    "detail_h2_2": "IMMERSIVE AROMATIC JOURNEY",
+                    "detail_p2": "Every note tells a story—from the vibrant top to the warm, lasting base. Let it wrap you in its aura and awaken your senses.",
+                    "imgMicro": "https://i.imgur.com/MBG1Nu0.jpeg",
+                    "detail_h2_3": "ART IN EVERY DROP",
+                    "detail_p3": "Crafted with passion, this fragrance reflects artistic precision, layering natural ingredients to create depth and harmony.",
+                    "img": "https://i.imgur.com/cPmvJT3.png",
+                    "detail_h2_4": "A BOTTLE THAT SPEAKS",
+                    "detail_p4": "Sleek, modern, and inspired by nature—the design embodies elegance, strength, and timeless style."
                 },
-                "Amarante":{
-                    "fond":"https://i.imgur.com/11cViGe.png",
-                    "imgcol":"https://i.imgur.com/wWm5Bvx.png",
-                    "imech":"",
-                    "qntech":4,
-                    "qnt":4,
-                    "img1":"https://i.imgur.com/e0RksKT.png",
-                    "img2":"https://i.imgur.com/vLyyXhl.png",
-                    "img3":"https://i.imgur.com/nAbrKsu.png",
-                    "text":"Geranium, jasmine, and violet, a delicate dance of blooming flowers."
-                },
-                "Ambre Blanche":{
-                    "fond":"https://i.imgur.com/PzW1829.png",
-                    "imgcol":"https://i.imgur.com/qxCE8qh.png",
-                    "imech":"",
-                    "qntech":4,
-                    "qnt":4,
-                    "img1":"https://i.imgur.com/1SahtJP.png",
-                    "img2":"https://i.imgur.com/9XkbIpi.png",
-                    "img3":"https://i.imgur.com/yrlzIU0.png",
-                    "text":"Tuberose, jasmine, and orange blossom on a bed of golden amber."
-                }
+                "Amarante": {
+                    "id": 1,
+                    "title": "Amarante",
+                    "fond": "https://i.imgur.com/11cViGe.png",
+                    "imgcol": "https://i.imgur.com/wWm5Bvx.png",
+                    "imech": "",
+                    "qntech": 4,
+                    "qnt": 4,
+                    "img1": "https://i.imgur.com/e0RksKT.png",
+                    "img2": "https://i.imgur.com/vLyyXhl.png",
+                    "img3": "https://i.imgur.com/nAbrKsu.png",
+                    "text": "Geranium, jasmine, and violet, a delicate dance of blooming flowers.",
+                    "detail_h2": "A FRAGRANCE THAT SPEAKS",
+                    "detail_p": "Crafted to captivate, this scent reflects the balance between tradition and modern elegance.",
+                    "detail_h2_2": "THE ESSENCE OF EMOTION",
+                    "detail_p2": "Each note unfolds with precision, guiding you through a journey of scent and sensation.",
+                    "imgMicro": "https://i.imgur.com/MBG1Nu0.jpeg",
+                    "detail_h2_3": "THE ART OF COMPOSITION",
+                    "detail_p3": "With a harmony of elements, this perfume unveils a layered narrative that evolves on your skin.",
+                    "img": "https://i.imgur.com/vLyyXhl.png",
+                    "detail_h2_4": "DESIGN MEETS SOUL",
+                    "detail_p4": "Elegant yet bold, the bottle design mirrors the fragrance within—refined and unforgettable."
+                },                  
+                "Ambre Blanche": {
+                    "id": 2,
+                    "title": "Ambre Blanche",
+                    "fond": "https://i.imgur.com/PzW1829.png",
+                    "imgcol": "https://i.imgur.com/qxCE8qh.png",
+                    "imech": "",
+                    "qntech": 4,
+                    "qnt": 4,
+                    "img1": "https://i.imgur.com/1SahtJP.png",
+                    "img2": "https://i.imgur.com/9XkbIpi.png",
+                    "img3": "https://i.imgur.com/yrlzIU0.png",
+                    "text": "Tuberose, jasmine, and orange blossom on a bed of golden amber.",
+                    "detail_h2": "A FRAGRANCE THAT SPEAKS",
+                    "detail_p": "Crafted to captivate, this scent reflects the balance between tradition and modern elegance.",
+                    "detail_h2_2": "THE ESSENCE OF EMOTION",
+                    "detail_p2": "Each note unfolds with precision, guiding you through a journey of scent and sensation.",
+                    "imgMicro": "https://i.imgur.com/MBG1Nu0.jpeg",
+                    "detail_h2_3": "THE ART OF COMPOSITION",
+                    "detail_p3": "With a harmony of elements, this perfume unveils a layered narrative that evolves on your skin.",
+                    "img": "https://i.imgur.com/9XkbIpi.png",
+                    "detail_h2_4": "DESIGN MEETS SOUL",
+                    "detail_p4": "Elegant yet bold, the bottle design mirrors the fragrance within—refined and unforgettable."
+                  }                  
             }
         ],
 
@@ -42,6 +78,7 @@
         {
             "fleurs":{
                 "etreinte de rose":{
+                    "id": 3,
                     "fond":"https://i.imgur.com/zTu6ExU.png",
                     "imgcol":"https://i.imgur.com/qxWwrZK.png",
                     "imech":"",
@@ -51,6 +88,7 @@
                     "img2":"https://i.imgur.com/xGuyCvc.png",
                     "img3":"https://imgur.com/gallery/img3-treinte-TdyzMWM"},
                 "Narcose":{
+                    "id": 5,
                     "fond":"https://i.imgur.com/AHIWUbd.png",
                     "imgcol":"https://i.imgur.com/6Xnkwkh.png",
                     "imech":"",
@@ -60,6 +98,7 @@
                     "img2":"https://i.imgur.com/7NBXp6V.png",
                     "img3":"https://i.imgur.com/k4PnFqm.png"},
                 "brise de hanami":{
+                    "id": 5,
                     "fond":"https://i.imgur.com/DJR08CX.png",
                     "imgcol":"https://i.imgur.com/9dI4Sg5.png",
                     "imech":"",
@@ -72,6 +111,7 @@
                 },
             "agrume":{
                 "soleil d'ancre":{
+                    "id": 6,
                     "fond":"https://i.imgur.com/eTPChaY.png",
                     "imgcol":"https://i.imgur.com/OmT9CKn.png",
                     "imech":"",
@@ -81,6 +121,7 @@
                     "img2":"https://i.imgur.com/0mByI4n.png",
                     "img3":"https://i.imgur.com/YqO3RDk.png"},
                 "tonka lush":{
+                    "id": 7,
                     "fond":"https://i.imgur.com/v6JURv5.png",
                     "imgcol":"https://i.imgur.com/teN2vdl.png",
                     "imech":"",
@@ -90,6 +131,7 @@
                     "img2":"https://i.imgur.com/wPRvxyc.png",
                     "img3":"https://i.imgur.com/LyKuqkW.png"},
                 "creamy crush":{
+                    "id": 8,
                     "fond":"https://i.imgur.com/q2TZ2qh.png",
                     "imgcol":"https://i.imgur.com/vn9Pw8f.png",
                     "imech":"",
@@ -105,6 +147,7 @@
         {
             "bois":{
                 "écorce sauvage":{
+                    "id": 10,
                     "fond":"https://i.imgur.com/ILt9Rxr.png",
                     "imgcol":"https://i.imgur.com/Z9564SI.png",
                     "imech":"https://i.imgur.com/LdtTGZf.png",
@@ -114,6 +157,7 @@
                     "img2":"https://i.imgur.com/UCNSveo.png",
                     "img3":"https://i.imgur.com/KkiE5F5.png"},
                 "Bois impérial":{
+                    "id": 11,
                     "fond":"https://i.imgur.com/NcKoFqE.png",
                     "imgcol":"https://i.imgur.com/aQVhg6N.png",
                     "imech":"",
@@ -123,6 +167,7 @@
                     "img2":"https://i.imgur.com/PNYswHJ.png",
                     "img3":"https://i.imgur.com/mBWKQK3.png"},
                 "terre indomptable":{
+                    "id": 12,
                     "fond":"https://i.imgur.com/8YOZwRg.png",
                     "imgcol":"https://i.imgur.com/EMybnmD.png",
                     "imech":"",
@@ -135,6 +180,7 @@
                 },
             "agrume":{
                 "clarté d'Aurore":{
+                    "id": 13,
                     "fond":"https://i.imgur.com/J0g2mrc.png",
                     "imgcol":"https://i.imgur.com/lQ2gQKY.png",
                     "imech":"",
@@ -144,6 +190,7 @@
                     "img2":"https://i.imgur.com/xw16BfI.png",
                     "img3":"https://i.imgur.com/5d3jFP3.png"},
                 "Brume céleste":{
+                    "id": 14,
                     "fond":"https://i.imgur.com/EqltFOr.png",
                     "imgcol":"https://i.imgur.com/eXyZDFl.png",
                     "imech":"",
@@ -153,6 +200,7 @@
                     "img2":"https://i.imgur.com/g17m0nL.png",
                     "img3":"https://i.imgur.com/oRmFR0t.png"},
                 "Zéphyr ardent":{
+                    "id": 15,
                     "fond":"https://i.imgur.com/ShIqjf7.png",
                     "imgcol":"https://i.imgur.com/SgVK74G.png",
                     "imech":"",
