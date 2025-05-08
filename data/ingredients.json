@@ -13,7 +13,7 @@
         "image": "https://hermitageoils.com/wp-content/uploads/2015/10/rosa-centifolia1.jpg",
         "origin": "Grasse, France",
         "description": "Hand-harvested in May, this centifolia rose exudes a rich and voluptuous scent, the heart of many mythical fragrances.",
-        "perfume": ["amarante", "etreinte de rose", "Bois impérial"]
+        "perfume": ["Amarante", "Etreinte de Rose", "Bois Impérial"]
     },
     {
         "name": "Damask Rose",
@@ -21,7 +21,7 @@
         "image": "https://www.secrets-aloyse.fr/471/eau-florale-de-rose-de-damas.jpg",
         "origin": "Damascus, Syria",
         "description": "Cultivated since antiquity, the Damask rose offers an enchanting scent, both fruity and spicy, highly prized in perfumery.",
-        "perfume": ["etreinte de rose"]
+        "perfume": ["Etreinte de Rose"]
     },
     {
         "name": "Musk",
@@ -29,7 +29,7 @@
         "image": "https://www.musc-blanc.com/wp-content/uploads/2019/09/les-origines-du-musc.jpg",
         "origin": "Himalaya, Tibet",
         "description": "A plant-based alternative to animal musk, this essence offers a warm, sensual, and enveloping note to oriental fragrances.",
-        "perfume": ["etreinte de rose", "Narcose", "brise de hanami", "Brume céleste"]
+        "perfume": ["Etreinte de Rose", "Narcose", "Brise de Hanami", "Brume Céleste"]
     },
     {
         "name": "Bergamot",
@@ -37,7 +37,7 @@
         "image": "https://images.radio-canada.ca/q_auto,w_952/v1/alimentation/ingredient/4x3/bergamote-ingredients-mordu.jpg",
         "origin": "Calabria, Italy",
         "description": "This small sun citrus, grown exclusively in Calabria, brings a sparkling and bright freshness to fragrances.",
-        "perfume": ["amarante", "songe d'Osmanthus", "ambre blanche", "etreinte de rose", "Narcose", "brise de hanami", "écorce sauvage", "Clarté d'Aurore", "Brume céleste"]
+        "perfume": ["Amarante", "Songe d'Osmanthus", "Ambre Blanche", "Etreinte de Rose", "Narcose", "Brise de Hanami", "Écorce Sauvage", "Clarté d'Aurore", "Brume Céleste"]
     },
     {
         "name": "Ginger",
@@ -45,7 +45,7 @@
         "image": "https://www.deco.fr/sites/default/files/styles/1200x675/public/2020-02/shutterstock_127542449.jpg",
         "origin": "Kerala, India",
         "description": "A rhizome with spicy and citrus notes, ginger adds a vibrant and energizing touch to compositions.",
-        "perfume": ["amarante", "écorce sauvage"]
+        "perfume": ["Amarante", "Écorce Sauvage"]
     },
     {
         "name": "Ambergris",
@@ -53,7 +53,7 @@
         "image": "https://baleinesendirect.org/wp-content/uploads/2019/07/ambre-gris-atlantique-2800g.jpg",
         "origin": "Indian Ocean",
         "description": "A rare concretion floating in the oceans, ambergris develops a marine, animal, and deeply enchanting scent over time.",
-        "perfume": ["écorce sauvage", "Bois impérial"]
+        "perfume": ["Écorce Sauvage", "Bois Impérial"]
     },
     {
         "name": "Amber",
@@ -61,7 +61,7 @@
         "image": "https://www.vuillermoz.fr/uploads/cms/encyclopedie-des-pierres/ambre.jpeg",
         "origin": "Baltic Sea",
         "description": "Fossilized resin with warm and vanilla notes, amber adds a comforting sweetness to oriental fragrances.",
-        "perfume": ["écorce sauvage", "terre indomptable", "Brume céleste"]
+        "perfume": ["Écorce Sauvage", "Terre Indomptable", "Brume Céleste"]
     },
     {
         "name": "Agarwood (Oud)",
@@ -77,7 +77,7 @@
         "image": "https://media.gerbeaud.net/2016/06/640/tubereuse-fleurs.jpg",
         "origin": "Mexico",
         "description": "A nocturnal flower with a heady scent, tuberose exudes an enchanting sensuality, between creamy floral and animal notes.",
-        "perfume": ["ambre blanche", "Narcose"]
+        "perfume": ["Ambre Blanche", "Narcose"]
     },
     {
         "name": "Jasmine",
@@ -85,7 +85,7 @@
         "image": "https://plantes-avenue.fr/372-large_default/jasmin-blanc-officinalis.jpg",
         "origin": "Uttar Pradesh, India",
         "description": "The grandiflorum jasmine, harvested at dawn, reveals an enchanting scent, both sensual and delicate, the king of flowers in perfumery.",
-        "perfume": ["songe d'Osmanthus", "ambre blanche", "Narcose", "Soleil d’ancre"]
+        "perfume": ["Songe d'Osmanthus", "Ambre Blanche", "Narcose", "Soleil d’Encre"]
     },
     {
         "name": "Orange Blossom",
@@ -93,7 +93,7 @@
         "image": "https://www.papillesetpupilles.fr/wp-content/uploads/2018/07/Eau-de-fleu-dorangers-Copyright-Iness_la_luz-shutterstock.jpg",
         "origin": "Tunisia",
         "description": "Neroli and orange blossom, two treasures of the bitter orange tree, offer different facets of the same flower: vibrant freshness or enveloping softness.",
-        "perfume": ["ambre blanche", "Narcose", "Clarté d’Aurore"]
+        "perfume": ["Ambre Blanche", "Narcose", "Clarté d’Aurore"]
     },
     {
         "name": "Vetiver",
@@ -101,7 +101,7 @@
         "image": "https://img.leboncoin.fr/api/v1/lbcpb1/images/97/fa/d6/97fad6f7bdca53d3cca923d07e6bcbcfc9a2b470.jpg?rule=ad-large",
         "origin": "Haiti",
         "description": "Deep roots with a woody, earthy, and slightly smoky scent, Haitian vetiver is the foundational note of elegant masculine perfumes.",
-        "perfume": ["Bois impérial", "Zéphyr ardent"]
+        "perfume": ["Bois Impérial", "Zéphyr Ardent"]
     },
     {
         "name": "Sandalwood",
@@ -109,7 +109,7 @@
         "image": "https://static.subbly.me/fs/subbly/userFiles/maprecieusebougiebox-63c5081f9a6f6/images/a-163-bois-des-antall-17188155879879.jpg?v=1718815591",
         "origin": "Australia",
         "description": "Precious wood with a sweet and creamy scent, Australian sandalwood adds a warm and sensual foundational note.",
-        "perfume": ["Bois impérial", "terre indomptable"]
+        "perfume": ["Bois Impérial", "Terre Indomptable"]
     },
     {
         "name": "Leather",
@@ -117,7 +117,7 @@
         "image": "https://crea-cuir.com/modules//smartblog/images/156-single-default.jpg",
         "origin": "France",
         "description": "Olfactory note recreating the scent of tanned leather, adding a virile and sophisticated dimension to fragrances.",
-        "perfume": ["Bois impérial"]
+        "perfume": ["Bois Impérial"]
     },
     {
         "name": "Camellia",
@@ -125,7 +125,7 @@
         "image": "https://www.decodujardin.fr/4321-large_default/camelia-du-japon.jpg",
         "origin": "China",
         "description": "Delicate flower with a subtle and slightly herbaceous scent, camellia adds a touch of floral freshness.",
-        "perfume": ["amarante", "brise de hanami"]
+        "perfume": ["Amarante", "Brise de Hanami"]
     },
     {
         "name": "Cherry Blossom",
@@ -133,7 +133,7 @@
         "image": "https://www.quosentis.com/Files/124793/Img/24/BP-FLEUR-CERISIER-FR-zoom.png",
         "origin": "Japan",
         "description": "Cherry blossom (sakura) with a delicate and slightly bitter scent, evoking spring and rebirth.",
-        "perfume": ["brise de hanami"]
+        "perfume": ["Brise de Hanami"]
     },
     {
         "name": "Magnolia",
@@ -141,7 +141,7 @@
         "image": "https://trees.hillier.co.uk/wp-content/uploads/2023/10/magnolia-grandiflora-ferruginea-evergreen-magnolia-tree-white-flower-blossom-scaled.jpg",
         "origin": "Louisiana, USA",
         "description": "Majestic flower with a scent that is both lemony and vanilla, bringing a sophisticated floral note.",
-        "perfume": ["amarante", "brise de hanami", "Clarté d’Aurore"]
+        "perfume": ["Amarante", "Brise de Hanami", "Clarté d’Aurore"]
     },
     {
         "name": "Cedarwood",
@@ -149,7 +149,7 @@
         "image": "https://fichiers.scentree.co/static/scentree_detailed_pages/images/Bois%20de%20C%C3%A8dre%20Chine%20HE.jpg",
         "origin": "Lebanon",
         "description": "Noble wood with a dry and woody scent, cedar adds a reassuring and masculine foundational note.",
-        "perfume": ["terre indomptable"]
+        "perfume": ["Terre Indomptable"]
     },
     {
         "name": "Agarwood",
@@ -157,7 +157,7 @@
         "image": "https://naturallday.fr/cdn/shop/products/oud_thai_600x.jpg?v=1556102671",
         "origin": "Borneo",
         "description": "Rare resin with a complex, woody, and slightly smoky scent, highly prized in oriental perfumery.",
-        "perfume": ["terre indomptable"]
+        "perfume": ["Terre Indomptable"]
     },
     {
         "name": "Pepper",
@@ -165,7 +165,7 @@
         "image": "https://img-3.journaldesfemmes.fr/NG3vMGK0mq4hfLFexRwSgQeJrkU=/1500x/smart/4d1689b8537441aaa574352c45998cf9/ccmcms-jdf/36993683.jpg",
         "origin": "Kerala, India",
         "description": "Black pepper berries adding a spicy, vibrant, and slightly fruity note to compositions.",
-        "perfume": ["songe d'Osmanthus", "terre indomptable", "Zéphyr ardent"]
+        "perfume": ["Songe d'Osmanthus", "Terre Indomptable", "Zéphyr Ardent"]
     },
     {
         "name": "Mandarin",
@@ -173,7 +173,7 @@
         "image": "https://img.passeportsante.net/1200x675/2018-05-22/i85740-.jpeg",
         "origin": "Algarve, Portugal",
         "description": "Sweet and juicy citrus, mandarin brings a cheerful and sunny freshness to fragrances.",
-        "perfume": ["Soleil d’ancre", "Zéphyr ardent"]
+        "perfume": ["Soleil d’Encre", "Zéphyr Ardent"]
     },
     {
         "name": "Blackcurrant",
@@ -181,7 +181,7 @@
         "image": "https://i-re.unimedias.fr/2024/04/29/r-branche-cassis-fruits-rouges-baies-116230886as-662f43dd8d065.jpg?auto=format,compress&crop=faces&cs=tinysrgb&fit=crop&h=501&w=890",
         "origin": "Burgundy, France",
         "description": "Blackcurrant berries providing a fruity, slightly green, and tangy note to compositions.",
-        "perfume": ["Soleil d’ancre"]
+        "perfume": ["Soleil d’Encre"]
     },
     {
         "name": "Citrus",
@@ -189,7 +189,7 @@
         "image": "https://cloudfront-eu-central-1.images.arcpublishing.com/lpguideshopping/6LRLFT4MNZG45CVP5HKF7LYWPM.jpg",
         "origin": "Andalusia, Spain",
         "description": "A blend of Mediterranean citrus fruits bringing a bright and luminous freshness to the top of the fragrance.",
-        "perfume": ["Tonka Lush", "Zéphyr ardent", "Clarté d’Aurore"]
+        "perfume": ["Tonka Lush", "Zéphyr Ardent", "Clarté d’Aurore"]
     },
     {
         "name": "Lemon",
@@ -197,7 +197,7 @@
         "image": "https://iod.keplrstatic.com/api/ar_1,c_crop,g_north/c_fill,dpr_auto,f_auto,q_70,w_750/mon_marche/5701CITRON_FEUILLES_NON_TRAITES.jpg",
         "origin": "Amalfi, Italy",
         "description": "Yellow lemon with a bright zest, adding a fresh, tangy, and tonic note to compositions.",
-        "perfume": ["Clarté d’Aurore", "Brume céleste"]
+        "perfume": ["Clarté d’Aurore", "Brume Céleste"]
     },
     {
         "name": "Coconut",
@@ -221,7 +221,7 @@
         "image": "https://www.hagengrote.fr/genussmagazin/wp-content/uploads/2017/02/Vanille-1200x675.jpg",
         "origin": "Madagascar",
         "description": "Black pods filled with sunshine, Madagascar vanilla offers a comforting and gourmet sweetness to oriental compositions.",
-        "perfume": ["ambre blanche", "Tonka Lush", "Creamy Crush"]
+        "perfume": ["Ambre Blanche", "Tonka Lush", "Creamy Crush"]
     },
     {
         "name": "Tonka Bean",
@@ -237,7 +237,7 @@
         "image": "https://img-3.journaldesfemmes.fr/AvY4ZZ5qd_vpshObbY4iT-3sypo=/1500x/smart/c61a64bb3a5345189b0ac9f195c9b7f4/ccmcms-jdf/16168025.jpg",
         "origin": "Dominican Republic",
         "description": "Lime with an explosive and refreshing scent, bringing vibrant energy to compositions.",
-        "perfume": ["Brume céleste"]
+        "perfume": ["Brume Céleste"]
     },
     {
         "name": "Strawberry",
@@ -277,7 +277,7 @@
         "image": "https://agrumes-vessieres.fr/wp-content/uploads/2021/07/bouquet-de-nice-1.jpg",
         "origin": "Sicily, Italy",
         "description": "Bitter orange with an intense and slightly bitter scent, widely used in perfumery for its luminous essence.",
-        "perfume": ["Zéphyr ardent"]
+        "perfume": ["Zéphyr Ardent"]
     },
     {
         "name": "Osmanthus",
@@ -285,7 +285,7 @@
         "image": "https://www.nature-and-garden.com/wp-content/uploads/sites/4/2018/05/osmanthus.jpg",
         "origin": "China",
         "description": "Osmanthus flower with a unique scent, combining apricot, leather, and white flower, highly valued in niche perfumery.",
-        "perfume": ["amarante"]
+        "perfume": ["Amarante"]
     },
     {
         "name": "Ambrette",
@@ -293,7 +293,7 @@
         "image": "https://www.albertvieille.com/wp-content/uploads/2023/06/ambrette-seeds-shutterstock-1921184276-scaled.jpg",
         "origin": "India",
         "description": "Ambrette seeds, a plant-based alternative to animal musk, providing a warm and slightly fruity note.",
-        "perfume": ["amarante", "ambre blanche"]
+        "perfume": ["Amarante", "Ambre Blanche"]
     },
     {
         "name": "Patchouli",
@@ -301,7 +301,7 @@
         "image": "https://abanuc.com/cdn/shop/collections/PATCHOULI.jpg?v=1620928389",
         "origin": "Indonesia",
         "description": "Dried leaves with an earthy and woody scent, patchouli adds a mysterious and sensual touch to oriental fragrances.",
-        "perfume": ["songe d'Osmanthus", "ambre blanche"]
+        "perfume": ["Songe d'Osmanthus", "Ambre Blanche"]
     },
     {
         "name": "Aldehyde",
@@ -309,7 +309,7 @@
         "image": "https://www.quosentis.com/Files/124793/Img/24/anis-zoom.png",
         "origin": "Laboratory, France",
         "description": "Organic compounds providing effervescent notes, sometimes compared to champagne or luxurious soap.",
-        "perfume": ["ambre blanche"]
+        "perfume": ["Ambre Blanche"]
     },
     {
         "name": "Geranium",
@@ -317,7 +317,7 @@
         "image": "https://www.lahalleauxplantes.com/wp-content/uploads/2021/04/geranium-4410725-scaled.jpg",
         "origin": "South Africa",
         "description": "Rosat geranium leaves with a scent that is floral, mentholated, and slightly fruity.",
-        "perfume": ["songe d'Osmanthus"]
+        "perfume": ["Songe d'Osmanthus"]
     },
     {
         "name": "Violet",
@@ -325,7 +325,7 @@
         "image": "https://www.code-couleur.com/images/main/header2020/fleur-violette.jpg",
         "origin": "Toulouse, France",
         "description": "Violet flower with a sweet and powder y scent, adding a retro and delicate note to compositions.",
-        "perfume": ["songe d'Osmanthus"]
+        "perfume": ["Songe d'Osmanthus"]
     },
     {
         "name": "Apple",
@@ -333,7 +333,7 @@
         "image": "https://www.hagengrote.fr/genussmagazin/wp-content/uploads/2022/08/Titel_Apfel-1200x900.jpg",
         "origin": "Loire Valley, France",
         "description": "Golden apple providing a fruity, fresh, and slightly green note to youthful and dynamic fragrances.",
-        "perfume": ["songe d'Osmanthus"]
+        "perfume": ["Songe d'Osmanthus"]
     },
     {
         "name": "Lavender",
@@ -341,6 +341,6 @@
         "image": "https://fr-be.bakker.com/cdn/shop/files/100338_2_1699363768095.jpg?v=1734962079&width=1946",
         "origin": "Provence, France",
         "description": "Fine lavender from Provence with a fresh, herbal, and slightly camphoraceous scent, the base of classic masculine perfumes.",
-        "perfume": ["songe d'Osmanthus"]
+        "perfume": ["Songe d'Osmanthus"]
     }
 ]

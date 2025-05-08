@@ -4,9 +4,9 @@
             {
                 "texttot": "A graceful harmony of floral, musky, and amber notes that evokes a stroll through a blooming garden at dawn, a whispered memory, or the warmth of sunlit skin.Soft yet expressive, this collection awakens the senses with elegance, tenderness, and quiet strength.",
                 "img":"https://i.imgur.com/4NFyIje.png",
-                "amarante": {
+                "Amarante": {
                     "id": 14,
-                    "title": "amarante",
+                    "title": "Amarante",
                     "fond": "https://i.imgur.com/11cViGe.png",
                     "imgcol": "https://i.imgur.com/wWm5Bvx.png",
                     "imech": "",
@@ -20,7 +20,7 @@
                     "detail_h2": "A FLORAL JOURNEY OF GRACE",
                     "detail_h2_2": "A VIBRANT BOUQUET OF SENSATIONS",
                     "detail_p2": "Let yourself be transported by a radiant garden at sunrise. Each note of Amarante is a petal on the wind — full of softness, spice, and luminosity.",
-                    "imgMicro": "https://i.imgur.com/MBG1Nu0.jpeg",
+                    "imgMicro": "https://i.imgur.com/4NFyIje.png",
                     "detail_h2_3": "CRAFTED WITH EMOTION",
                     "detail_p3": "Blending traditional floral essences with a contemporary twist, Amarante was composed to evoke elegance and subtle strength.",
                     "img": "https://i.imgur.com/vLyyXhl.png",
@@ -38,9 +38,9 @@
                     }
                 }
 ,
-                "songe d'Osmanthus": {
+                "Songe d'Osmanthus": {
                     "id": 15,
-                    "title": "songe d'Osmanthus",
+                    "title": "Songe d'Osmanthus",
                     "fond": "https://i.imgur.com/AaIiAWu.png",
                     "imgcol": "https://i.imgur.com/2iC8B5O.png",
                     "imech": "",
@@ -54,7 +54,7 @@
                     "detail_h2": "A DREAM IN BLOOM",
                     "detail_h2_2": "TEXTURED FLORALITY MEETS FRUITY BRIGHTNESS",
                     "detail_p2": "Each spray captures a twilight reverie — petals unfolding in warmth, fruit glistening with dew, and spice crackling like memory.",
-                    "imgMicro": "https://i.imgur.com/MBG1Nu0.jpeg",
+                    "imgMicro": "https://i.imgur.com/4NFyIje.png",
                     "detail_h2_3": "PERFUMERY AS POETRY",
                     "detail_p3": "This fragrance was composed as a sensory daydream: layered, expressive, and full of contrast between softness and vibrancy.",
                     "img": "https://i.imgur.com/cPmvJT3.png",
@@ -73,9 +73,9 @@
                     }
                 }
 ,                  
-                "ambre blanche": {
+                "Ambre Blanche": {
                     "id": 16,
-                    "title": "ambre blanche",
+                    "title": "Ambre Blanche",
                     "fond": "https://i.imgur.com/PzW1829.png",
                     "imgcol": "https://i.imgur.com/qxCE8qh.png",
                     "imech": "",
@@ -89,7 +89,7 @@
                     "detail_h2": "A LUMINOUS EMBRACE",
                     "detail_h2_2": "FLORAL RADIANCE AND SOFT HEAT",
                     "detail_p2": "Inspired by light on bare skin, this scent melts delicately, weaving creamy white petals with musky undertones for a tender, glowing finish.",
-                    "imgMicro": "https://i.imgur.com/MBG1Nu0.jpeg",
+                    "imgMicro": "https://i.imgur.com/4NFyIje.png",
                     "detail_h2_3": "SCULPTED IN LIGHT",
                     "detail_p3": "Amber Blanche is crafted as a soft aura — evoking warmth and brightness with an airy complexity that captivates quietly.",
                     "img": "https://i.imgur.com/9XkbIpi.png",
@@ -115,9 +115,9 @@
             "Petal Reverie":{
                 "texttot":"A delicate symphony of white florals, soft musks, and airy petals — this collection captures the fleeting grace of spring, the intimacy of a quiet embrace, and the poetry of light dancing through blossoms.Each scent feels like a gentle breath of nature, serene and profoundly feminine.",
                 "img":"https://i.imgur.com/nxSSJlc.png",
-                "etreinte de rose": {
+                "Etreinte de Rose": {
                     "id": 1,
-                    "title": "etreinte de rose",
+                    "title": "Etreinte de Rose",
                     "fond": "https://i.imgur.com/zTu6ExU.png",
                     "imgcol": "https://i.imgur.com/qxWwrZK.png",
                     "imech": "https://i.imgur.com/SFmV1bt.png",
@@ -131,7 +131,7 @@
                     "detail_h2": "THE ETERNAL ROSE EMBRACE",
                     "detail_h2_2": "A HEART BLOOMING WITH FEMININITY",
                     "detail_p2": "Every note in Étreinte de Rose is a tribute to timeless romance — from crisp bergamot to the warmth of musk wrapping a trio of precious roses.",
-                    "imgMicro": "https://i.imgur.com/MBG1Nu0.jpeg",
+                    "imgMicro": "https://i.imgur.com/nxSSJlc.png",
                     "detail_h2_3": "BOTANICAL ELEGANCE REIMAGINED",
                     "detail_p3": "This fragrance reinvents the rose with grace and modernity, celebrating floral sophistication through a contemporary olfactive lens.",
                     "img": "https://i.imgur.com/xGuyCvc.png",
@@ -155,13 +155,13 @@
                     "qnt": 4,
                     "img1": "https://i.imgur.com/WklHV3z.png",
                     "img2": "https://i.imgur.com/7NBXp6V.png",
-                    "img3": "https://i.imgur.com/k4PnFqm.png",
+                    "img3": "https://i.imgur.com/ISgAQc2.jpeg ",
                     "text": "Narcose is an intoxicating floral dream, where tuberose, jasmine, and orange blossom bloom at the heart in a hypnotic embrace. The fragrance opens with the fresh sparkle of bergamot, gently drawing you into its soft, addictive core. Anchored by a musky base, Narcose lingers like a whispered secret on the skin — seductive, radiant, unforgettable.",
                     "detail_p": "Narcose reveals a bold and luminous floral heart of tuberose, jasmine, and orange blossom. Sparkling bergamot introduces the composition with a bright and airy touch. As it unfolds, the fragrance deepens into a sensual base of musk, creating a lasting impression that is both elegant and enveloping.",
                     "detail_h2": "THE ART OF SEDUCTION",
                     "detail_h2_2": "A WHISPER OF FLORAL INTOXICATION",
                     "detail_p2": "Each note in Narcose is a slow reveal — delicate white petals give way to a musky trail that captivates like a glance across a crowded room.",
-                    "imgMicro": "https://i.imgur.com/MBG1Nu0.jpeg",
+                    "imgMicro": "https://i.imgur.com/nxSSJlc.png",
                     "detail_h2_3": "ELEGANCE WITH EDGE",
                     "detail_p3": "Narcose is not just a perfume, it’s an experience — crafted to enchant and seduce with contrast and charm.",
                     "img": "https://i.imgur.com/7NBXp6V.png",
@@ -176,9 +176,9 @@
                         "5": "Bergamot"
                     }
                 },
-                "brise de hanami": {
+                "Brise de Hanami": {
                     "id": 3,
-                    "title": "brise de hanami",
+                    "title": "Brise de Hanami",
                     "fond": "https://i.imgur.com/DJR08CX.png",
                     "imgcol": "https://i.imgur.com/9dI4Sg5.png",
                     "imech": "https://i.imgur.com/i3fMvvo.png",
@@ -192,7 +192,7 @@
                     "detail_h2": "A MOMENT OF BLOOM",
                     "detail_h2_2": "WHERE AIRINESS MEETS BLOSSOM",
                     "detail_p2": "Delicate yet uplifting, Brise de Hanami evokes the calm of petals drifting through morning light — ephemeral, pure, unforgettable.",
-                    "imgMicro": "https://i.imgur.com/MBG1Nu0.jpeg",
+                    "imgMicro": "https://i.imgur.com/nxSSJlc.png",
                     "detail_h2_3": "JAPANESE SPRING, REIMAGINED",
                     "detail_p3": "Inspired by hanami traditions, this fragrance translates the poetic spirit of cherry blossom season into a gentle sensory experience.",
                     "img": "https://i.imgur.com/i9xO3vy.png",
@@ -211,9 +211,9 @@
             "Golden Caress":{
                 "texttot":"A radiant blend of fruity, gourmand, and creamy notes — this collection evokes the warmth of sunlit skin, the sweetness of carefree moments, and the comfort of a soft, addictive embrace. Lush and playful, yet smooth and enveloping, each scent is a sensorial treat that lingers like a golden memory.",
                 "img":"https://i.imgur.com/66usZOp.png",
-                "soleil d'encre": {
+                "Soleil d'Encre": {
                     "id": 4,
-                    "title": "soleil d'ancre",
+                    "title": "Soleil d'Encre",
                     "fond": "https://i.imgur.com/eTPChaY.png",
                     "imgcol": "https://i.imgur.com/OmT9CKn.png",
                     "imech": "https://i.imgur.com/ycL4Kpp.png",
@@ -221,13 +221,13 @@
                     "qnt": 4,
                     "img1": "https://i.imgur.com/8FvcbJ1.png",
                     "img2": "https://i.imgur.com/0mByI4n.png",
-                    "img3": "https://i.imgur.com/YqO3RDk.png",
+                    "img3": "https://i.imgur.com/Y0FMmj0.jpeg",
                     "text": "Soleil d’Ancre is a luminous scent that evokes the warmth of sun on the skin and the sparkle of salty air. Juicy mandarin and tangy cassis awaken the senses, before melting into a radiant heart of jasmine. A soft trail of musk anchors the composition, like sunlight lingering on golden skin.",
                     "detail_p": "Soleil d’Ancre opens with the vibrant freshness of mandarin and cassis, offering a fruity brightness that feels instantly uplifting. The heart reveals delicate jasmine petals, while the base of soft musk adds warmth and depth. A balanced scent that feels both energizing and comforting.",
                     "detail_h2": "SUNLIGHT IN A SCENT",
                     "detail_h2_2": "BRIGHT, FRESH, AND COMFORTING",
                     "detail_p2": "Like golden light on coastal skin, this fragrance radiates joy and serenity — where citrus and sea-kissed florals mingle on a musky breeze.",
-                    "imgMicro": "https://i.imgur.com/MBG1Nu0.jpeg",
+                    "imgMicro": "https://i.imgur.com/66usZOp.png",
                     "detail_h2_3": "THE ESSENCE OF WARMTH",
                     "detail_p3": "Soleil d’Ancre captures the sensual ease of summer: fruity brightness, floral grace, and a soft embrace that lingers like a memory.",
                     "img": "https://i.imgur.com/0mByI4n.png",
@@ -241,9 +241,9 @@
                         "4": "Musk"
                     }
                 },
-                "tonka lush": {
+                "Tonka Lush": {
                     "id": 5,
-                    "title": "tonka lush",
+                    "title": "Tonka Lush",
                     "fond": "https://i.imgur.com/v6JURv5.png",
                     "imgcol": "https://i.imgur.com/teN2vdl.png",
                     "imech": "https://i.imgur.com/JJd7jYr.png",
@@ -251,13 +251,13 @@
                     "qnt": 4,
                     "img1": "https://i.imgur.com/UcDNtGi.png",
                     "img2": "https://i.imgur.com/wPRvxyc.png",
-                    "img3": "https://i.imgur.com/LyKuqkW.png",
+                    "img3": "https://i.imgur.com/VKu6cWk.jpeg",
                     "text": "Tonka Lush is a gourmand escape, where exotic fruits and warm sweetness blend in perfect harmony. Juicy citrus and creamy coconut sparkle in the opening, followed by the lush softness of lychee. The base reveals a sensual trail of vanilla and tonka bean, rich and enveloping like golden skin at dusk.",
                     "detail_p": "Tonka Lush opens with vibrant citrus notes that bring an immediate freshness. Coconut and lychee create a creamy, juicy heart, while the base of vanilla and tonka bean offers warmth and depth. The result is a rich yet airy fragrance, both playful and sophisticated.",
                     "detail_h2": "A SUMPTUOUS ESCAPE",
                     "detail_h2_2": "SWEETNESS AND LIGHT IN BALANCE",
                     "detail_p2": "Tonka Lush wraps you in a golden haze of indulgence — tropical freshness, creamy fruit, and a deep, velvety finish that lingers like sunset.",
-                    "imgMicro": "https://i.imgur.com/MBG1Nu0.jpeg",
+                    "imgMicro": "https://i.imgur.com/66usZOp.png",
                     "detail_h2_3": "SENSORIAL JOY IN EVERY NOTE",
                     "detail_p3": "This fragrance plays with contrast — sparkling and smooth, bright and enveloping — designed for those who crave both comfort and charisma.",
                     "img": "https://i.imgur.com/wPRvxyc.png",
@@ -272,9 +272,9 @@
                         "5": "Tonka Bean"
                     }
                 },
-                "creamy crush": {
+                "Creamy Crush": {
                     "id": 6,
-                    "title": "creamy crush",
+                    "title": "Creamy Crush",
                     "fond": "https://i.imgur.com/q2TZ2qh.png",
                     "imgcol": "https://i.imgur.com/vn9Pw8f.png",
                     "imech": "https://i.imgur.com/oKTqiLx.png",
@@ -288,7 +288,7 @@
                     "detail_h2": "SWEETNESS, REINVENTED",
                     "detail_h2_2": "A GOURMAND WHISPER OF JOY",
                     "detail_p2": "Like the scent of childhood confections and carefree afternoons, Creamy Crush brings indulgence and nostalgia together in one charming blend.",
-                    "imgMicro": "https://i.imgur.com/MBG1Nu0.jpeg",
+                    "imgMicro": "https://i.imgur.com/66usZOp.png",
                     "detail_h2_3": "A PLAYFUL BALLET OF RED FRUITS",
                     "detail_p3": "Built on joyful top notes and creamy depth, this fragrance is a lighthearted gourmand dream that balances sweetness with softness.",
                     "img": "https://i.imgur.com/SLwExKK.png",
@@ -313,9 +313,9 @@
             "Nobles Sauvages":{
                 "texttot":"An earthy fusion of woods, spices, and smoky ambers — this collection captures the untamed spirit of nature, the depth of ancient forests, and the quiet strength of the wild.Powerful yet refined, each scent is a tribute to raw elegance and elemental force.",
                 "img":"https://i.imgur.com/imxuN6f.png",
-                "écorce sauvage": {
+                "Écorce Sauvage": {
                     "id": 7,
-                    "title": "écorce sauvage",
+                    "title": "Écorce Sauvage",
                     "fond": "https://i.imgur.com/ILt9Rxr.png",
                     "imgcol": "https://i.imgur.com/Z9564SI.png",
                     "imech": "https://i.imgur.com/LdtTGZf.png",
@@ -329,7 +329,7 @@
                     "detail_h2": "THE WILD ELEMENT",
                     "detail_h2_2": "UNLEASHED STRENGTH AND DEPTH",
                     "detail_p2": "Like bark split under pressure, Écorce Sauvage reveals strength through contrast — hot spices, glowing resin, and smoky wood merge into a primal echo.",
-                    "imgMicro": "https://imgur.com/imxuN6f",
+                    "imgMicro": "https://i.imgur.com/imxuN6f.png",
                     "detail_h2_3": "RAW MATERIAL, REFINED FORM",
                     "detail_p3": "Inspired by nature’s force, this scent layers textured ingredients to tell a story of power, mystery, and refined masculinity.",
                     "img": "https://i.imgur.com/UCNSveo.png",
@@ -344,23 +344,23 @@
                         "5": "Bergamot"
                     }
                 },
-                "Bois impérial": {
+                "Bois Impérial": {
                     "id": 8,
-                    "title": "Bois impérial",
+                    "title": "Bois IImpérial",
                     "fond": "https://i.imgur.com/NcKoFqE.png",
                     "imgcol": "https://i.imgur.com/aQVhg6N.png",
                     "imech": "https://i.imgur.com/rOc5Cmc.png",
                     "qntech": 4,
                     "qnt": 4,
                     "img1": "https://i.imgur.com/CtyuvGY.png",
-                    "img2": "https://i.imgur.com/PNYswHJ.png",
+                    "img2": "https://i.imgur.com/bt2ThwY.jpeg",
                     "img3": "https://i.imgur.com/mBWKQK3.png",
                     "text": "Bois Impérial is a majestic and elegant fragrance where strength meets refinement. At its heart, velvety rose softens the smoky depth of vetiver and sandalwood. Ambergris and leather bring a magnetic sensuality, both raw and regal. A scent that commands attention with quiet power.",
                     "detail_p": "Bois Impérial opens with the earthy elegance of vetiver and the creamy softness of sandalwood. A delicate rose adds floral balance, while ambergris and leather bring depth and sensuality. This rich, structured fragrance evokes confidence, warmth, and timeless sophistication.",
                     "detail_h2": "THE POWER OF STILLNESS",
                     "detail_h2_2": "FLORAL NOBILITY AND WOODEN MIGHT",
                     "detail_p2": "Bois Impérial evokes silent authority — a blend where rose tempers strength and deep woods resonate with calm intensity.",
-                    "imgMicro": "https://i.imgur.com/MBG1Nu0.jpeg",
+                    "imgMicro": "https://i.imgur.com/imxuN6f.png",
                     "detail_h2_3": "A SCULPTED SYMPHONY",
                     "detail_p3": "This fragrance is composed like a royal architecture: precise, multilayered, and infused with the warmth of tradition and modern boldness.",
                     "img": "https://i.imgur.com/PNYswHJ.png",
@@ -375,9 +375,9 @@
                         "5": "May Rose"
                     }
                     },
-                "terre indomptable": {
+                "Terre Indomptable": {
                     "id": 9,
-                    "title": "terre indomptable",
+                    "title": "Terre Indomptable",
                     "fond": "https://i.imgur.com/8YOZwRg.png",
                     "imgcol": "https://i.imgur.com/EMybnmD.png",
                     "imech": "https://i.imgur.com/26GbFgd.png",
@@ -410,23 +410,23 @@
             "Éveil Aérien":{
                 "texttot":"².",
                 "img":"https://i.imgur.com/SMpJ7Rr.png",
-                "clarté d'Aurore": {
+                "Clarté d'Aurore": {
                     "id": 10,
-                    "title": "clarté d'Aurore",
+                    "title": "Clarté d'Aurore",
                     "fond": "https://i.imgur.com/J0g2mrc.png",
                     "imgcol": "https://i.imgur.com/lQ2gQKY.png",
                     "imech": "https://i.imgur.com/tmEqRlh.png",
                     "qntech": 4,
                     "qnt": 4,
                     "img1": "https://i.imgur.com/4HFvj6G.png",
-                    "img2": "https://i.imgur.com/xw16BfI.png",
-                    "img3": "https://i.imgur.com/5d3jFP3.png",
+                    "img2": "https://i.imgur.com/lG4mOhD.jpeg",
+                    "img3": "https://i.imgur.com/vrvL5Bg.jpeg",
                     "text": "Clarté d’Aurore opens with a burst of fresh citrus: lemon and bergamot offer an invigorating start. The heart unfolds with delicate orange blossom, airy and floral, while the base of amber wood brings warmth and depth. A fragrance both energizing and serene.",
                     "detail_p": "Clarté d’Aurore captures the purity of a new day. Sparkling notes of citrus, lemon, and bergamot illuminate the senses, like the first light of dawn. A soft breeze of orange blossom brings floral freshness, while warm amber wood grounds the fragrance in subtle softness.",
                     "detail_h2": "A NEW DAWN BEGINS",
                     "detail_h2_2": "LIGHT, AIR, AND BALANCE",
                     "detail_p2": "Fresh, luminous, and clean, this fragrance evokes the clarity and calm of morning light — awakening the senses with graceful intensity.",
-                    "imgMicro": "https://i.imgur.com/MBG1Nu0.jpeg",
+                    "imgMicro": "https://i.imgur.com/SMpJ7Rr.png",
                     "detail_h2_3": "THE ESSENCE OF MORNING",
                     "detail_p3": "Each note in Clarté d’Aurore is chosen to echo nature’s gentlest moments — sun rising, petals opening, a breeze passing through the air.",
                     "img": "https://i.imgur.com/xw16BfI.png",
@@ -441,9 +441,9 @@
                         "5": "Orange Blossom"
                     }
                 },
-                "Brume céleste": {
+                "Brume Céleste": {
                     "id": 11,
-                    "title": "Brume céleste",
+                    "title": "Brume Céleste",
                     "fond": "https://i.imgur.com/EqltFOr.png",
                     "imgcol": "https://i.imgur.com/eXyZDFl.png",
                     "imech": "https://i.imgur.com/ACilqkt.png",
@@ -451,13 +451,13 @@
                     "qnt": 4,
                     "img1": "https://i.imgur.com/4kuQZA7.png",
                     "img2": "https://i.imgur.com/g17m0nL.png",
-                    "img3": "https://i.imgur.com/oRmFR0t.png",
+                    "img3": "https://i.imgur.com/qno8gWm.jpeg",
                     "text": "Brume Céleste is a delicate veil of freshness, like the light mist of early morning. Bright bergamot and tangy lemon zest open the scent with a burst of energy, while green citrus notes add a refreshing touch. Soft musk and warm amber ground the fragrance in a serene, comforting finish.",
                     "detail_p": "Brume Céleste begins with the fresh vibrancy of bergamot and lemon, followed by the crispness of green citrus. The heart of the fragrance is enveloped in soft musk, with amber providing a warm and smooth base. A bright and refreshing scent that balances energy and tranquility.",
                     "detail_h2": "THE CALM OF THE SKY",
                     "detail_h2_2": "MORNING AIR, BOTTLED",
                     "detail_p2": "Brume Céleste brings the sensation of a fresh breeze at dawn — cool, clear, and wrapped in subtle warmth and softness.",
-                    "imgMicro": "https://i.imgur.com/MBG1Nu0.jpeg",
+                    "imgMicro": "https://i.imgur.com/SMpJ7Rr.png",
                     "detail_h2_3": "WEIGHTLESS BALANCE",
                     "detail_p3": "Each note floats delicately, giving the fragrance a sense of elevation and clarity that soothes and uplifts in equal measure.",
                     "img": "https://i.imgur.com/g17m0nL.png",
@@ -472,9 +472,9 @@
                         "5": "Musk"
                     }
                 },
-                "Zéphyr ardent": {
+                "Zéphyr Ardent": {
                     "id": 12,
-                    "title": "Zéphyr ardent",
+                    "title": "Zéphyr Ardent",
                     "fond": "https://i.imgur.com/ShIqjf7.png",
                     "imgcol": "https://i.imgur.com/SgVK74G.png",
                     "imech": "https://i.imgur.com/s7meWMl.png",
@@ -482,13 +482,13 @@
                     "qnt": 4,
                     "img1": "https://i.imgur.com/w8S16au.png",
                     "img2": "https://i.imgur.com/v0WvPSA.png",
-                    "img3": "https://i.imgur.com/DJX6xH1.png",
+                    "img3": "https://i.imgur.com/x6kFlaq.jpeg",
                     "text": "Zéphyr Ardent is a bold, windswept fragrance that captures the energy of a blazing breeze. The juicy sweetness of mandarin and citrus fruits blends with the tangy bitterness of bigarade. A spicy heart of pepper adds intensity, while vetiver anchors the scent in a woody, earthy foundation.",
                     "detail_p": "Zéphyr Ardent opens with the bright, citrusy notes of mandarin and bigarade, offering a fresh, zesty start. The heart reveals a spicy kick of pepper, while vetiver brings depth and earthiness to the fragrance. A scent full of energy, yet grounded by woody richness.",
                     "detail_h2": "A RUSH OF ELEMENTAL FORCE",
                     "detail_h2_2": "THE SPARK OF WIND AND HEAT",
                     "detail_p2": "Zéphyr Ardent channels the feeling of wind in motion — electrified by citrus, propelled by spice, and rooted in smoky depth.",
-                    "imgMicro": "https://i.imgur.com/MBG1Nu0.jpeg",
+                    "imgMicro": "https://i.imgur.com/SMpJ7Rr.png",
                     "detail_h2_3": "BOLD CONTRASTS IN MOTION",
                     "detail_p3": "From juicy top notes to a grounded base, this fragrance speaks of speed, energy, and an untamable spirit.",
                     "img": "https://i.imgur.com/v0WvPSA.png",
